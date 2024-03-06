@@ -15,7 +15,7 @@ Proiectul constă în dezvoltarea unei aplicații interactive de tip quiz de cul
 ## Arhitectura
 
 
-![Alt text](documentatie-ghid-utlizare-raport/uml.png)
+![Alt text](uml.png)
 
 În această diagramă am reprezentat fiecare clasa și relațiile dintre ele. 
 
