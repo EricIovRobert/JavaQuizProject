@@ -1,0 +1,14 @@
+Care este capitala Franței?,Paris,Berlin,Madrid
+Cine a scris "Romeo și Julieta"?,William Shakespeare,Jane Austen,Charles Dickens
+Care este cea mai înaltă munte din lume?,Muntele Everest,Mont Blanc,Kilimanjaro
+Cine a pictat Mona Lisa?,Leonardo da Vinci,Pablo Picasso,Vincent van Gogh
+Care este cel mai mare ocean al lumii?,Oceanul Pacific,Oceanul Indian,Oceanul Atlantic
+Ce limbă se vorbește în Brazilia?,Portugheză,Spaniolă,Franceză
+Care este cel mai lung fluviu din lume?,Amazon,Nil,Yangtze
+Cine a fost primul om care a pășit pe Lună?,Neil Armstrong,Yuri Gagarin,Buzz Aldrin
+Ce capitală europeană este cunoscută și ca "Orașul cu șapte coline"?,Roma,Atena,Lisabona
+Cine a scris "Omul Invisibil"?,H.G. Wells,Jules Verne,Mary Shelley
+Care este capitala Japoniei?,Tokyo,Seul,Beijing
+Ce element chimic are simbolul "O"?,Oxigen,Aur,Ozon
+Cine a compus "Simfonia a 9-a"?,Ludwig van Beethoven,Wolfgang Amadeus Mozart,Johann Sebastian Bach
+Cine a scris "Război și pace"?,Leo Tolstoy,Fyodor Dostoevsky,Anton Chekhov
